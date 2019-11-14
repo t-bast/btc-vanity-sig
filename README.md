@@ -1,2 +1,3 @@
-# btc-vanity-sig
-Produce Bitcoin vanity signatures and addresses for the lolz
+# Bitcoin Vanity Signatures
+
+Produce Bitcoin vanity signatures and addresses for the lolz.
